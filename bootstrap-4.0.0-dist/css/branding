@@ -1,0 +1,8 @@
+/* I AM THE QUIET STORM */
+
+.sectWrapper{
+	display: block;
+}
+.sectRight , .sectLeft{
+	width: 40%;
+}
